@@ -1,16 +1,13 @@
-### Hi there 👋
+## michael scott hertzberg
 
-<!--
-**moimikey/moimikey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- @github / moimikey
+- @npm / moimikey
+- @linkedin / mshertzberg
+- @dev.to / moimikey
 
-Here are some ideas to get you started:
+> ∴∵∴∵∴∵∴∵∴∵∴∵ hire me ∴∵∴∵∴∵∴∵∴∵∴∵∴∵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+i like brooke candy, ecmascript and tales from the crypt 💩
+call me, beep me, if you wanna reach me: mshertzberg,at,gmail,com

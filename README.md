@@ -5,7 +5,9 @@
 - @linkedin / mshertzberg
 - @dev.to / moimikey
 
-> ∴∵∴∵∴∵∴∵∴∵∴∵ hire me ∴∵∴∵∴∵∴∵∴∵∴∵∴∵
+---
+
+HIRE ME
 
 ---
 

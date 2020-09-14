@@ -1,15 +1,9 @@
-## michael scott hertzberg
+## FIND ME
 
-- @github / moimikey
-- @npm / moimikey
-- @linkedin / mshertzberg
-- @dev.to / moimikey
+- [@npm](https://npm.com/~moimikey)
+- [@linkedin](https://linkedin.com/in/mshertzberg)
+- [@dev.to](https://dev.to/moimikey)
 
----
-
-HIRE ME
-
----
+## HIRE ME
 
 i like brooke candy, ecmascript and tales from the crypt 💩
-call me, beep me, if you wanna reach me: mshertzberg,at,gmail,com

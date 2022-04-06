@@ -1,5 +1,7 @@
 # Michael Scott Hertzberg [![GitHub Stars][stars-shield]][github-url] [![GitHub Followers][follow-shield]][github-url]
 
+[![moimikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=moimikey&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+
 [![NPM][npm-image]][npm-url]
 
 [![LinkedIn][linkedin-image]][linkedin-url]

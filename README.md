@@ -1,6 +1,6 @@
 # Michael Scott Hertzberg [![GitHub Stars][stars-shield]][github-url] [![GitHub Followers][follow-shield]][github-url]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=moimikey)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![NPM][npm-image]][npm-url]
 [![LinkedIn][linkedin-image]][linkedin-url]

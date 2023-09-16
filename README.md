@@ -1,11 +1,9 @@
 # Michael Scott Hertzberg [![GitHub Stars][stars-shield]][github-url] [![GitHub Followers][follow-shield]][github-url]
 
-[![moimikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=moimikey&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![NPM][npm-image]][npm-url]
-
 [![LinkedIn][linkedin-image]][linkedin-url]
-
 [![dev.to][devto-image]][devto-url]
 
 

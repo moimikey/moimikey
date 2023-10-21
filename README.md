@@ -1,11 +1,12 @@
 # Michael Scott Hertzberg [![GitHub Stars][stars-shield]][github-url] [![GitHub Followers][follow-shield]][github-url]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moimikey)](https://github.com/ryo-ma/github-profile-trophy)
+
+| [![stats](https://github-readme-stats.vercel.app/api?username=moimikey&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy) | [![trophy](https://github-profile-trophy.vercel.app/?username=moimikey)](https://github.com/ryo-ma/github-profile-trophy) |
+| --- | --- |
 
 [![NPM][npm-image]][npm-url]
 [![LinkedIn][linkedin-image]][linkedin-url]
 [![dev.to][devto-image]][devto-url]
-
 
 [npm-image]: https://img.shields.io/badge/npm-moimikey-CC3534
 [npm-url]: https://npmjs.com/~moimikey
